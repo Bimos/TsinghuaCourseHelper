@@ -1,0 +1,78 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:MyWebHelper.cs" caret="4058" fromTop="94" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:Program.cs" caret="6947" fromTop="15" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="13681" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="1846" fromTop="3" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="7995" fromTop="16" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="8110" fromTop="21" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="8252" fromTop="26" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="8362" fromTop="31" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="8571" fromTop="27" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="9846" fromTop="5" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="9176" fromTop="10" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="10857" fromTop="13" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="11137" fromTop="5" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="11137" fromTop="11" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="14045" fromTop="20" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="14445" fromTop="10" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="14848" fromTop="21" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="16334" fromTop="25" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="17315" fromTop="6" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="8978" fromTop="6" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="9718" fromTop="17" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="10492" fromTop="27" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="10550" fromTop="28" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="12874" fromTop="39" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="11359" fromTop="8" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="11149" fromTop="2" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="11834" fromTop="19" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="11957" fromTop="12" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="12503" fromTop="25" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="12700" fromTop="28" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="15637" fromTop="2" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="9934" fromTop="19" />
+      <File id="D379A784-B02B-419C-96A6-EC5B0FDBA57C/f:GetCourse.cs" caret="13696" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="private" priority="31" />
+      <Item value="开课院系" priority="32" />
+      <Item value="学分" priority="32" />
+      <Item value="match" priority="32" />
+      <Item value="return" priority="31" />
+      <Item value="true" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Match">
+      <Item value="Groups" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Group">
+      <Item value="ToString`0" priority="27" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,5 +1,5 @@
-TsinghuaCourseHelperSet
-=======================
+TsinghuaCourseHelper
+=====================
 
 清华选课系统工具箱
 
